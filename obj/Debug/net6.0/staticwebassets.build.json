@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NsGO8w6D6mRIyNu/XeTRzLZEX3peU/81OyLtJ9mqeng=",
+  "Source": "nxt-api",
+  "BasePath": "_content/nxt-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
